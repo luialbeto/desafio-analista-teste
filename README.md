@@ -1,3 +1,7 @@
+# Projeto criado com Cypress e Cucumber
+A primeira suíte de testes foi criada com uso de BDD, Gherkins, Cypress e Cucumber
+A segunda suíte utilizei os parâmetros "describe" "it"
+
 # Instalações necessárias
 
 npm install -D cypress-cucumber-preprocessor
